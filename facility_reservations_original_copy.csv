@@ -1,0 +1,437 @@
+Reservation_ID,Facility_Type,User_Category,Booking_Date,Reservation_Date,Day_of_Week,Time_Slot,Duration_Hours,Participants,Equipment_Requested,Usage_Status,Actual_Attendance,Cancellation_Days_Before
+R0128,Conference Room,Student Organization,2025-08-26,2025-08-28,Thursday,Afternoon,3,21.0,No,Cancelled,,1.0
+R0028,Gymnasium,Student Organization,2025-08-31,2025-09-01,Monday,,1,37.0,Yes,No-Show,0.0,
+R0226,Computer Lab,Faculty,2025-11-14,2025-11-11,Tuesday,Afternoon,2,22.0,Yes,No-Show,0.0,
+R0155,Gymnasium,Student Organization,2025-11-16,2025-11-17,Monday,Morning,3,61.0,No,Used,49.0,
+R0143,Classroom,Student Organization,2025-10-28,2025-11-07,Friday,Afternoon,3,57.0,No,used,35.0,
+R0088,Gymnasium,Student Organization,2025-09-24,2025-10-01,Wednesday,Afternoon,5,66.0,Yes,Cancelled,,0.0
+R0115,COMPUTER LAB,Administrative Staff,2025-11-06,2025-11-09,Sunday,Morning,6,31.0,No,Used,27.0,
+R0238,Gymnasium,student,2025-09-08,2025-09-08,Monday,Afternoon,4,45.0,No,Used,44.0,
+R0154,Classroom,Faculty,2025-11-08,2025-11-19,Wednesday,Afternoon,1,51.0,No,Cancelled,,1.0
+R0124,Computer Lab,Student Organization,2025-11-14,2025-11-16,Sunday,Afternoon,2,33.0,Yes,Cancelled,,0.0
+R0147,Classroom,Individual student,2025-08-02,2025-08-03,Sunday,Morning,2,22.0,Yes,Used,20.0,
+R0292,Computer Lab,student,2025-10-21,2025-11-06,Thursday,Afternoon,2,29.0,No,Cancelled,,5.0
+R0343,Classroom,Faculty,2025-11-20,2025-11-23,Sunday,Afternoon,2,18.0,Yes,Used,16.0,
+R0320,classroom ,Student Organization,2025-11-20,2025-11-23,Sunday,Morning,4,30.0,Yes,Cancelled,,3.0
+R0240,Comp Lab,Individual Student,2025-11-08,2025-11-08,Saturday,Morning,1,36.0,Yes,Used,30.0,
+R0211,Classroom,STUDENT ORGANIZATION,2025-10-25,2025-10-25,Saturday,Morning,2,17.0,No,Used,13.0,
+R0270,Auditorium,Individual Student,2025-08-18,2025-08-20,Wednesday,Afternoon,4,151.0,No,USED,135.0,
+R0017,Computer Lab,Administrative Staff,2025-09-08,2025-09-27,Saturday,Morning,2,23.0,No,Used,17.0,
+R0386,Computer Lab,Faculty,2025-10-05,2025-10-16,Thursday,Afternoon,3,,No,Cancelled,,11.0
+R0062,Computer Lab,Faculty,2025-08-28,2025-09-22,Monday,,5,19.0,No,Used,11.0,
+R0162,Comp Lab,STUDENT ORGANIZATION,2025-09-02,2025-09-02,Tuesday,Afternoon,3,20.0,Yes,Used,15.0,
+R0015,Auditorium,student org,2025-11-10,2025-11-13,Thursday,Afternoon,3,231.0,No,Cancelled,-3.0,1.0
+R0269,Study Room,Faculty,,2025-10-20,Monday,Morning,2,7.0,No,Used,5.0,
+R0016,Conference Room,Student Organization,2025-11-08,2025-11-18,Tuesday,Afternoon,3,21.0,Yes,Cancelled,,9.0
+R0041,Conference Room,Individual Student,2025-09-21,2025-09-24,Wednesday,Morning,1,6.0,No,Used,4.0,
+R0297,Classroom,admin staff,2025-09-26,2025-10-05,Sunday,Afternoon,3,15.0,Yes,no-show,0.0,
+R0082,GYMNASIUM,Student Organization,2025-08-10,2025-08-17,Sunday,Afternoon,3,107.0,No,Used,99.0,
+R0246,Classroom,Student Organization,2025-08-24,2025-09-07,Sunday,Morning,2,59.0,No,Used,39.0,
+R0405,CLASSROOM,Student Organization,2025-08-02,2025-09-13,Saturday,Evening,2,26.0,Yes,Used,21.0,
+R0198,CLASSROOM,Administrative Staff,2025-10-23,2025-10-25,Saturday,Afternoon,4,42.0,No,used,38.0,
+R0256,Conference Room,student org,2025-08-14,2025-08-20,Wednesday,Morning,5,15.0,Yes,Used,16.0,
+R0081,Computer Lab,Individual student,2025-10-17,2025-10-21,Tuesday,Evening,3,25.0,Yes,Cancelled,,2.0
+R0131,Study Room,Individual Student,2025-11-15,2025-11-18,Tuesday,Morning,5,7.0,Yes,Used,5.0,
+R0104,Computer Lab,Faculty,2025-08-07,2025-08-09,Saturday,Morning,2,21.0,No,Used,15.0,
+R0108,Conference Room,Individual Student,2025-10-21,2025-10-21,Tuesday,Afternoon,2,20.0,Yes,Used,14.0,
+R0315,Conf. Room,Student Organization,2025-11-13,2025-11-23,Sunday,Afternoon,4,22.0,Yes,No Show,0.0,
+R0291,Computer Lab,Student Organization,,2025-11-13,Thursday,Afternoon,3,36.0,No,No-Show,0.0,
+R0202,Gymnasium,Individual Student,2025-10-30,2025-11-12,Wednesday,Evening,3,36.0,Yes,Cancelled,,13.0
+R0138,Conference Room,Student Org.,2025-10-15,2025-10-20,Monday,Morning,4,,Yes,Used,24.0,
+R0189,Gymnasium,Faculty,2025-11-09,2025-12-21,Sunday,Afternoon,6,83.0,No,Used,,
+R0102,Classroom,Individual Student,2025-08-06,2025-09-16,Tuesday,Afternoon,1,21.0,Yes,Cancelled,,28.0
+R0242,Study Room,Admin Staff,2025-10-03,2025-10-08,Wednesday,Afternoon,6,6.0,Yes,No-Show,0.0,
+R0270,Auditorium,Individual Student,2025-08-18,2025-08-20,Wednesday,Afternoon,4,151.0,No,USED,135.0,
+R0264,Conference Room,Faculty,2025-08-12,2025-09-16,Tuesday,Morning,2,18.0,No,Used,12.0,
+R0129,Auditorium,FACULTY,2025-08-03,2025-09-12,Friday,Morning,3,290.0,Yes,No-Show,0.0,
+R0362,Classroom,admin staff,2025-08-11,2025-08-14,Thursday,Afternoon,2,26.0,No,Used,,
+R0357,Computer Lab,Administrative Staff,2025-10-01,2025-10-08,Wednesday,Morning,3,30.0,No,used,31.0,
+R0057,gym,Individual Student,2025-10-01,2025-10-24,Friday,Morning,1,76.0,No,Cancelled,,9.0
+R0282,Classroom,Student Organization,2025-11-22,2025-11-24,Monday,Morning,4,46.0,No,cancelled ,,1.0
+R0165,Computer Lab,Faculty,2025-09-30,2025-10-11,Saturday,Evening,0,39.0,No,Cancelled,,6.0
+R0074,Study Room,Administrative Staff,2025-11-04,2025-11-08,Saturday,Evening,2,6.0,Yes,Used,6.0,
+R0145,Study Room,Faculty,2025-11-02,2025-11-05,Wednesday,Morning,1,2.0,Yes,Used,2.0,
+R0341,Study Room,Individual Student,2025-10-07,2025-10-07,Tuesday,Afternoon,3,3.0,Yes,Used,2.0,
+R0067,Classroom,Student Organization,2025-09-17,2025-09-17,Wednesday,Morning,2,34.0,No,Cancelled,,0.0
+R0280,Computer Lab,Administrative Staff,2025-10-28,2025-11-10,Monday,Morning,1,25.0,Yes,Used,21.0,
+R0308,Computer Lab,Administrative Staff,2025-09-08,2025-09-13,Saturday,Afternoon,4,19.0,Yes,Cancelled,,2.0
+R0272,Study Room,Faculty,2025-10-27,2025-12-03,Wednesday,Morning,2,6.0,No,Used,5.0,
+R0279,Comp Lab,Administrative Staff,2025-09-17,2025-09-24,Wednesday,Afternoon,2,22.0,Yes,Used,22.0,
+R0068,Comp Lab,Faculty,2025-11-08,2025-11-29,Saturday,Afternoon,3,17.0,No,,14.0,
+R0117,Classroom,Faculty,2025-11-14,2025-11-25,Tuesday,Afternoon,2,39.0,No,Used,34.0,
+R0210,Study Room,Faculty,2025-10-26,2025-11-29,Saturday,Afternoon,1,2.0,No,Used,1.0,
+R0392,Comp Lab,Individual Student,2025-10-15,2025-11-27,Thursday,Morning,24,15.0,No,Used,11.0,
+R0267,Auditorium,Individual Student,2025-11-28,2025-12-01,Monday,Morning,6,168.0,No,Cancelled,,0.0
+R0060,Conference Room,Individual Student,2025-11-04,2025-11-13,Thursday,Morning,3,22.0,Yes,No-Show,0.0,
+R0403,Computer Lab,Student Organization,2025-09-24,2025-11-03,Monday,Evening,3,24.0,No,Used,26.0,
+R0359,Computer Lab,Administrative Staff,2025-10-20,2025-10-22,Wednesday,Morning,1,18.0,Yes,Cancelled,,2.0
+R0125,Computer Lab,Administrative Staff,2025-08-05,2025-09-14,Sunday,Afternoon,2,29.0,No,cancelled ,,4.0
+R0397,Computer Lab,Administrative Staff,2025-09-04,2025-09-09,Tuesday,Evening,3,38.0,Yes,Used,36.0,
+R0330,conference room,Individual student,2025-08-24,2025-09-04,Thursday,Evening,1,19.0,No,Cancelled,,7.0
+R0057,gym,Individual Student,2025-10-01,2025-10-24,Friday,Morning,1,76.0,No,Cancelled,,9.0
+R0106,Classroom,Administrative Staff,2025-11-13,2025-11-14,Friday,Afternoon,4,25.0,Yes,used,20.0,
+R0212,GYMNASIUM,Faculty,2025-09-06,2025-09-13,Saturday,Afternoon,3,99.0,No,Cancelled,,5.0
+R0025,Computer Lab,Student Org.,2025-11-18,2025-11-26,Wednesday,Evening,1,39.0,Yes,Cancelled,,3.0
+R0289,Auditorium,Faculty,,2025-11-22,Saturday,Morning,2,228.0,No,Used,235.0,
+R0032,Study Room,Student Organization,2025-08-29,2025-09-10,Wednesday,Afternoon,3,3.0,No,Cancelled,,7.0
+R0089,Gymnasium,faculty ,2025-08-13,2025-08-25,Monday,Evening,3,47.0,Yes,Used,49.0,
+R0230,Study Room,Student Organization,2025-11-21,2025-12-01,Monday,Evening,6,7.0,No,Cancelled,,4.0
+R0303,Classroom,Individual Student,2025-11-18,2025-12-07,Sunday,Evening,6,48.0,Yes,cancelled ,,5.0
+R0299,Auditorium,Admin Staff,2025-10-08,2025-10-20,Monday,Afternoon,2,249.0,No,No-Show,0.0,
+R0084,Classroom,Student Organization,2025-11-21,2026-01-04,Sunday,Morning,3,48.0,Yes,No-Show,0.0,
+R0038,Computer Lab,Administrative Staff,2025-10-07,2025-10-15,Wednesday,Morning,1,15.0,Yes,USED,9.0,
+R0388,Study Room,Individual Student,2025-08-02,2025-08-02,Saturday,Afternoon,6,6.0,No,Used,4.0,
+R0390,classroom ,Individual Student,2025-09-09,2025-09-09,Tuesday,Morning,5,35.0,Yes,Used,29.0,
+R0285,Study Room,Student Organization,2025-10-21,2025-10-27,Monday,Afternoon,2,4.0,No,Used,4.0,
+R0228,Study Room,Faculty,2025-11-14,2025-11-15,Saturday,Evening,2,7.0,Yes,Cancelled,,0.0
+R0417,Conference Room,Individual Student,2025-09-01,2025-09-07,Sunday,Afternoon,3,16.0,No,Used,17.0,
+R0112,Computer Lab,Individual Student,2025-10-21,2025-10-23,Thursday,Morning,6,-5.0,No,Used,30.0,
+R0180,Computer Lab,Student Org.,2025-08-16,2025-09-09,Tuesday,Morning,2,38.0,Yes,Cancelled,,22.0
+R0293,Study Room,Student Organization,2025-10-23,2025-11-06,Thursday,Afternoon,2,6.0,Yes,Cancelled,,7.0
+R0381,classroom ,Administrative Staff,2025-09-02,2025-09-05,Friday,Morning,3,38.0,No,USED,21.0,
+R0245,classroom ,student,2025-10-19,2025-10-20,Monday,Afternoon,5,25.0,No,Used,20.0,
+R0103,Gymnasium,Individual Student,2025-09-26,2025-10-04,Saturday,Afternoon,3,70.0,No,Cancelled,,8.0
+R0383,Auditorium,Administrative Staff,2025-10-12,2025-10-20,Monday,Morning,1,139.0,No,Used,113.0,
+R0413,Study Room,Faculty,2025-08-07,2025-09-01,Monday,Evening,3,6.0,No,cancelled ,,17.0
+R0113,Gymnasium,Student Organization,2025-11-25,2025-11-30,Sunday,Afternoon,0,43.0,No,No-Show,0.0,
+R0398,Conference Room,Individual Student,2025-09-11,2025-09-12,Friday,Afternoon,2,15.0,No,Used,16.0,
+R0396,Gymnasium,Student Organization,2025-08-26,2025-09-02,Tuesday,Morning,4,110.0,No,Used,84.0,
+R0176,Classroom,Student Organization,2025-08-30,2025-09-08,Monday,Morning,2,15.0,Yes,USED,13.0,
+R0056,Gymnasium,Individual Student,2025-09-16,2025-10-09,Thursday,Evening,3,45.0,Yes,Used,49.0,
+R0158,Computer Lab,Student Organization,2025-08-22,2025-08-25,Monday,Morning,3,19.0,No,Used,13.0,
+R0137,Conf. Room,FACULTY,2025-11-10,2025-11-02,Sunday,Afternoon,1,9.0,No,Used,7.0,
+R0186,GYMNASIUM,Faculty,2025-08-11,2025-08-12,Tuesday,Evening,3,41.0,No,Used,39.0,
+R0304,Auditorium,Individual Student,2025-11-26,2025-11-28,Friday,Morning,2,242.0,Yes,Used,,
+R0382,Auditorium,Administrative Staff,2025-10-05,2025-11-02,Sunday,Morning,6,297.0,No,cancelled ,,8.0
+R0135,Classroom,Faculty,2025-09-10,2025-09-20,Saturday,Morning,3,19.0,No,Used,12.0,
+R0356,Gymnasium,faculty ,2025-10-14,2025-10-31,Friday,Morning,2,100.0,No,Cancelled,,12.0
+R0231,Classroom,Individual Student,2025-08-04,2025-08-05,Tuesday,Evening,2,31.0,No,Used,31.0,
+R0237,COMPUTER LAB,Individual Student,2025-10-17,2025-10-23,Thursday,Morning,1,,No,Used,21.0,
+R0255,Gymnasium,Faculty,2025-10-15,2025-10-16,Thursday,Morning,4,97.0,No,Cancelled,,0.0
+R0366,Computer Lab,Administrative Staff,2025-10-23,2025-10-31,Friday,Evening,2,26.0,No,Cancelled,,7.0
+R0195,Gymnasium,Individual student,2025-08-01,2025-08-16,Saturday,Afternoon,3,98.0,Yes,Canceled,,5.0
+R0288,Study Room,faculty ,2025-11-25,2025-12-12,Friday,Afternoon,5,4.0,No,Cancelled,,0.0
+R0190,Computer Lab,Faculty,2025-08-22,2025-08-31,Sunday,Afternoon,2,29.0,No,Used,20.0,
+R0127,Gymnasium,student org,2025-11-23,2025-11-30,Sunday,Evening,2,57.0,Yes,Used,46.0,
+R0160,Conf. Room,Administrative Staff,2025-08-28,2025-09-01,Monday,Afternoon,4,14.0,Yes,Used,14.0,
+R0260,Gymnasium,Student Organization,2025-09-26,2025-09-27,Saturday,Evening,2,36.0,Yes,Cancelled,,1.0
+R0083,Auditorium,Individual student,2025-11-22,2025-12-24,Wednesday,Evening,1,82.0,Yes,Used,62.0,
+R0140,Gymnasium,Faculty,2025-08-04,2025-08-13,Wednesday,Morning,2,26.0,Yes,Cancelled,,3.0
+R0054,Auditorium,student,2025-08-05,2025-09-11,Thursday,Evening,4,212.0,No,no-show,0.0,
+R0187,Conference Room,Individual Student,2025-08-01,2025-08-09,Saturday,Morning,2,20.0,No,Cancelled,,3.0
+R0085,CLASSROOM,Student Organization,2025-09-04,2025-09-18,Thursday,Afternoon,5,37.0,Yes,Used,31.0,
+R0391,Conference Room,Student Organization,2025-08-30,2025-09-07,Sunday,Evening,1,15.0,Yes,Used,14.0,
+R0378,Computer Lab,Administrative Staff,2025-09-05,2025-09-12,Friday,Evening,2,24.0,No,Used,17.0,
+R0052,computer lab,Administrative Staff,2025-09-28,2025-10-09,Thursday,Afternoon,1,22.0,No,used,13.0,
+R0099,Classroom,Faculty,2025-11-18,2025-11-24,Monday,Evening,2,32.0,Yes,Used,29.0,
+R0011,Study Room,faculty ,2025-08-29,2025-09-12,Friday,Afternoon,3,2.0,No,Used,1.0,
+R0156,Classroom,student org,2025-11-20,2025-12-01,Monday,Morning,3,35.0,Yes,USED,37.0,
+R0374,Auditorium,Student Organization,2025-08-15,2025-08-17,Sunday,Evening,5,266.0,Yes,cancelled ,,1.0
+R0081,Computer Lab,Individual student,2025-10-17,2025-10-21,Tuesday,Evening,3,25.0,Yes,Cancelled,,2.0
+R0075,Study Room,Individual Student,2025-10-20,2025-10-27,Monday,Morning,1,2.0,Yes,USED,2.0,
+R0232,Classroom,Individual Student,2025-08-13,2025-09-22,Monday,Afternoon,2,50.0,Yes,Cancelled,,13.0
+R0372,Classroom,Faculty,2025-09-05,2025-10-09,Thursday,Morning,1,52.0,No,Used,49.0,
+R0274,Conference Room,Faculty,2025-09-19,2025-09-28,Sunday,Afternoon,1,10.0,Yes,Used,10.0,
+R0024,Classroom,Faculty,2025-08-01,2025-08-09,Saturday,Evening,5,33.0,Yes,Used,27.0,
+R0194,Gymnasium,Administrative Staff,2025-09-11,2025-09-21,Sunday,Morning,1,81.0,No,USED,85.0,
+R0234,Gymnasium,Faculty,2025-10-16,2025-11-19,Wednesday,Evening,4,109.0,No,No Show,0.0,
+R0393,gym,Individual Student,2025-10-13,2025-10-14,Tuesday,Morning,4,29.0,No,Used,20.0,
+R0051,GYMNASIUM,Faculty,2025-10-13,2025-10-18,Saturday,Morning,2,96.0,No,Cancelled,,5.0
+R0039,Study Room,Student Organization,2025-08-17,2025-08-17,Sunday,Morning,3,5.0,Yes,Used,4.0,
+R0219,GYMNASIUM,Student Organization,2025-11-02,2025-10-31,Friday,,5,108.0,No,Used,69.0,
+R0006,Conference Room,STUDENT ORGANIZATION,2025-08-26,2025-09-18,Thursday,Evening,4,24.0,Yes,Used,15.0,
+R0076,Gymnasium,Administrative Staff,2025-08-18,2025-08-20,Wednesday,Evening,3,71.0,Yes,No-Show,0.0,
+R0048,classroom ,Administrative Staff,2025-11-06,2025-11-10,Monday,Afternoon,2,16.0,No,Used,16.0,
+R0047,Gymnasium,Faculty,2025-11-22,2025-11-29,Saturday,Evening,2,46.0,No,Used,41.0,
+R0071,Gymnasium,Faculty,2025-09-25,2025-09-26,Friday,Evening,6,105.0,No,Used,62.0,
+R0164,Conf. Room,faculty ,2025-09-10,2025-09-18,Thursday,Evening,2,23.0,No,Used,14.0,
+R0080,Computer Lab,Student Organization,2025-08-08,2025-09-21,Sunday,Morning,3,17.0,No,USED,11.0,
+R0031,CLASSROOM,Individual Student,2025-10-16,2025-11-17,Monday,Morning,4,54.0,No,no-show,0.0,
+R0251,Study Room,Individual Student,2025-08-06,2025-09-19,Friday,Afternoon,2,5.0,Yes,Cancelled,,39.0
+R0307,Gymnasium,Individual Student,2025-08-30,2025-09-04,Thursday,Afternoon,1,69.0,No,No-Show,0.0,
+R0191,Classroom,Individual Student,2025-10-19,2025-10-26,Sunday,,2,50.0,No,No-Show,0.0,
+R0116,Classroom,Student Organization,2025-10-19,2025-10-21,Tuesday,Afternoon,5,34.0,Yes,No-Show,0.0,
+R0026,computer lab,Student Organization,2025-11-10,2025-11-10,Monday,Afternoon,5,19.0,Yes,Used,16.0,
+R0066,Study Room,Individual Student,2025-09-25,2025-10-23,Thursday,Morning,2,5.0,Yes,Used,-3.0,
+R0215,Classroom,Individual Student,2025-08-29,2025-09-05,Friday,Evening,2,45.0,No,Used,41.0,
+R0349,Classroom,Student Org.,2025-08-13,2025-08-27,Wednesday,Evening,1,20.0,Yes,Used,21.0,
+R0167,Study Room,Student Organization,2025-08-28,2025-09-30,Tuesday,Morning,4,0.0,Yes,used,5.0,
+R0350,conference room,Faculty,2025-08-03,2025-08-03,Sunday,Afternoon,5,7.0,Yes,Used,6.0,
+R0272,Study Room,Faculty,2025-10-27,2025-12-03,Wednesday,Morning,2,6.0,No,Used,5.0,
+R0069,Conference Room,Individual Student,2025-10-11,2025-10-16,Thursday,Afternoon,2,14.0,Yes,No-Show,0.0,
+R0331,Computer Lab,Administrative Staff,2025-09-05,2025-09-17,Wednesday,Afternoon,1,22.0,No,Used,21.0,
+R0078,Study Room,Student Organization,2025-10-19,2025-11-23,Sunday,Afternoon,2,3.0,No,Used,2.0,
+R0322,Conference Room,FACULTY,2025-09-07,2025-09-07,Sunday,Evening,1,13.0,No,Used,13.0,
+R0324,Conference Room,Student Organization,2025-08-30,2025-08-31,Sunday,Afternoon,1,12.0,No,Used,8.0,
+R0375,Study Room,Individual Student,2025-08-13,2025-08-15,Friday,Afternoon,2,7.0,No,No-Show,0.0,
+R0059,Classroom,Student Organization,2025-08-10,2025-08-20,Wednesday,Afternoon,4,30.0,No,Cancelled,,6.0
+R0126,Classroom,Faculty,2025-10-29,2025-11-07,Friday,Afternoon,1,46.0,Yes,Used,45.0,
+R0043,CLASSROOM,Individual Student,2025-09-03,2025-09-18,Thursday,Afternoon,3,56.0,Yes,Canceled,,12.0
+R0005,Computer Lab,Student Organization,2025-11-25,2025-12-05,Friday,Evening,4,32.0,No,Used,29.0,
+R0122,Study Room,Individual Student,2025-09-19,2025-09-23,Tuesday,Morning,4,7.0,Yes,Used,6.0,
+R0298,classroom ,Administrative Staff,2025-11-17,2025-11-28,Friday,Afternoon,5,31.0,No,Used,24.0,
+R0206,conference room,Administrative Staff,2025-08-26,2025-08-29,Friday,Afternoon,6,15.0,No,used,9.0,
+R0225,Computer Lab,Student Org.,2025-11-20,2025-12-04,Thursday,Afternoon,5,27.0,No,Used,29.0,
+R0196,Auditorium,Faculty,2025-08-10,2025-09-05,Friday,Afternoon,3,295.0,No,Used,219.0,
+R0281,Conference Room,Faculty,2025-09-26,2025-10-10,Friday,Morning,1,8.0,Yes,Used,9.0,
+R0110,Computer Lab,student,2025-10-31,2025-11-06,Thursday,Morning,4,24.0,No,used,21.0,
+R0119,Classroom,Administrative Staff,2025-08-27,2025-09-03,Wednesday,Morning,2,50.0,No,Used,47.0,
+R0266,Classroom,Administrative Staff,2025-08-25,2025-09-02,Tuesday,Morning,1,59.0,No,Used,45.0,
+R0400,Gymnasium,Individual Student,2025-09-21,2025-09-29,Monday,Afternoon,6,94.0,Yes,No-Show,0.0,
+R0007,Study Room,Student Organization,2025-09-29,2025-10-02,Thursday,Afternoon,1,,Yes,Used,4.0,
+R0339,Study Room,Individual Student,2025-10-25,2025-10-25,Saturday,,2,5.0,No,Used,5.0,
+R0248,Classroom,Individual Student,2025-10-28,2025-11-01,Saturday,Evening,1,57.0,Yes,Used,43.0,
+R0197,Study Room,Faculty,2025-08-30,2025-08-31,Sunday,Afternoon,3,7.0,No,USED,6.0,
+R0229, Gymnasium,Administrative Staff,2025-10-27,2025-10-28,Tuesday,Afternoon,2,77.0,No,Used,57.0,
+R0261,Study Room,Student Organization,2025-09-15,2025-09-29,Monday,Evening,3,4.0,Yes,No-Show,0.0,
+R0192,Auditorium,Student Organization,2025-10-15,2025-10-28,Tuesday,Morning,1,124.0,Yes,No-Show,0.0,
+R0415,computer lab,STUDENT ORGANIZATION,2025-08-04,2025-08-04,Monday,Afternoon,2,36.0,No,Used,20.0,
+R0244,Auditorium,Student Organization,2025-09-23,2025-09-25,Thursday,Morning,2,111.0,No,No-Show,0.0,
+R0383,Auditorium,Administrative Staff,2025-10-12,2025-10-20,Monday,Morning,1,139.0,No,Used,113.0,
+R0004,computer lab,Individual Student,2025-09-16,2025-09-18,Thursday,Afternoon,2,25.0,Yes,No-Show,0.0,
+R0205,Conference Room,Administrative Staff,2025-11-26,2025-12-11,Thursday,Morning,1,6.0,Yes,Used,6.0,
+R0123,Comp Lab,admin staff,2025-08-02,2025-08-03,Sunday,Morning,1,23.0,Yes,Cancelled,,1.0
+R0079,Classroom,Student Organization,2025-08-08,2025-08-21,Thursday,Afternoon,1,30.0,No,No-Show,0.0,
+R0344,Gymnasium,Faculty,2025-08-19,2025-09-02,Tuesday,Afternoon,5,,Yes,Cancelled,,13.0
+R0283,Classroom,Individual student,2025-09-19,2025-10-11,Saturday,Evening,2,,Yes,No-Show,0.0,
+R0065,Study Room,Student Organization,2025-10-08,2025-10-10,Friday,Evening,2,5.0,Yes,Cancelled,,2.0
+R0019,Computer Lab,Faculty,2025-09-03,2025-09-07,Sunday,Morning,2,30.0,No,Used,32.0,
+R0333,Computer Lab,Individual Student,2025-11-25,2025-12-10,Wednesday,Afternoon,5,32.0,No,used,29.0,
+R0152,Computer Lab,Individual Student,2025-10-10,2025-11-12,Wednesday,Morning,2,25.0,No,No-Show,0.0,
+R0031,CLASSROOM,Individual Student,2025-10-16,2025-11-17,Monday,Morning,4,54.0,No,no-show,0.0,
+R0044,Conference Room,Faculty,2025-09-28,2025-11-01,Saturday,Afternoon,3,13.0,No,Used,11.0,
+R0181,Conference Room,FACULTY,2025-11-04,2025-11-07,Friday,Evening,1,10.0,Yes,Used,10.0,
+R0306,Computer Lab,Individual Student,2025-08-08,2025-08-16,Saturday,Morning,4,27.0,No,Used,17.0,
+R0164,Conf. Room,faculty ,2025-09-10,2025-09-18,Thursday,Evening,2,23.0,No,Used,14.0,
+R0318,AUDITORIUM,Administrative Staff,2025-11-28,2025-12-12,Friday,Morning,2,209.0,Yes,Used,129.0,
+R0141,Gymnasium,Individual Student,2025-09-03,2025-09-18,Thursday,Afternoon,4,113.0,Yes,No-Show,0.0,
+R0352,Conference Room,Administrative Staff,2025-11-02,2025-11-05,Wednesday,Morning,6,18.0,No,Used,14.0,
+R0411,Classroom,Individual Student,2025-09-10,2025-09-20,Saturday,Afternoon,1,44.0,No,Canceled,,6.0
+R0208,Classroom,Administrative Staff,2025-09-27,2025-09-29,Monday,Evening,1,24.0,Yes,used,17.0,
+R0346,Auditorium,Faculty,2025-10-15,2025-10-21,Tuesday,Afternoon,1,205.0,No,Used,204.0,
+R0416,Classroom,Student Organization,2025-10-08,2025-10-26,Sunday,Evening,2,26.0,No,Cancelled,,6.0
+R0279,Comp Lab,Administrative Staff,2025-09-17,2025-09-24,Wednesday,Afternoon,2,22.0,Yes,Used,22.0,
+R0169,Classroom,Student Organization,2025-09-13,2025-10-04,Saturday,Afternoon,3,37.0,Yes,Used,34.0,
+R0358,Auditorium,Faculty,,2025-09-28,Sunday,Evening,3,157.0,No,cancelled ,,5.0
+R0046,Auditorium,STUDENT ORGANIZATION,2025-11-10,2025-11-16,Sunday,Evening,2,175.0,No,No-Show,0.0,
+R0367,Study Room,Individual Student,2025-10-04,2025-10-05,Sunday,Morning,1,2.0,Yes,Used,,
+R0144,Computer Lab,Administrative Staff,2025-09-16,2025-09-18,Thursday,Afternoon,4,38.0,No,Used,41.0,
+R0252,classroom ,Individual Student,2025-10-20,2025-10-27,Monday,Morning,2,35.0,No,Cancelled,,3.0
+R0239,Computer Lab,Individual Student,2025-11-16,2025-11-17,Monday,Afternoon,1,24.0,No,Used,24.0,
+R0042,COMPUTER LAB,Faculty,2025-11-02,2025-11-16,Sunday,Morning,2,19.0,No,Used,18.0,
+R0241,conference room,Faculty,2025-08-30,2025-09-28,Sunday,Afternoon,6,18.0,No,Cancelled,,19.0
+R0022,COMPUTER LAB,Faculty,2025-09-24,2025-10-06,Monday,Afternoon,1,23.0,No,Used,22.0,
+R0287,Conference Room,Faculty,2025-10-27,2025-10-31,Friday,Afternoon,4,9.0,Yes,No-Show,0.0,
+R0109,Gymnasium,Student Organization,2025-10-30,2025-11-16,Sunday,Afternoon,2,57.0,Yes,Used,59.0,
+R0178,Classroom,FACULTY,2025-11-01,2025-11-01,Saturday,Morning,3,23.0,Yes,Used,23.0,
+R0058,Computer Lab,student,2025-09-14,2025-09-26,Friday,Morning,1,29.0,Yes,Cancelled,,1.0
+R0328,Auditorium,Student Organization,2025-08-27,2025-10-08,Wednesday,Morning,4,87.0,No,Cancelled,,25.0
+R0204,Conference Room,Faculty,2025-11-17,2025-11-29,Saturday,Afternoon,3,11.0,Yes,Used,6.0,
+R0305,Classroom,admin staff,2025-09-18,2025-09-29,Monday,Morning,2,-5.0,No,Used,11.0,
+R0345,Conference Room,Individual Student,2025-10-15,2025-10-25,Saturday,Afternoon,1,15.0,No,Used,9.0,
+R0271,classroom ,STUDENT ORGANIZATION,2025-11-07,2025-12-13,Saturday,Afternoon,3,43.0,Yes,Cancelled,,16.0
+R0404,Classroom,Administrative Staff,2025-10-14,2025-10-17,Friday,Morning,2,15.0,No,no-show,0.0,
+R0171,Classroom,Faculty,2025-11-13,2025-11-26,Wednesday,Afternoon,4,24.0,No,Used,24.0,
+R0030,Computer Lab,Faculty,2025-09-21,2025-10-05,Sunday,Morning,2,33.0,No,Used,32.0,
+R0163,CLASSROOM,Student Organization,2025-11-21,2025-12-03,Wednesday,Morning,3,33.0,No,Used,24.0,
+R0150,Classroom,Individual Student,2025-08-28,2025-09-06,Saturday,Morning,3,36.0,Yes,No-Show,0.0,
+R0329,Study Room,FACULTY,2025-08-15,2025-08-15,Friday,Afternoon,2,6.0,Yes,Used,3.0,
+R0408,Conference Room,Administrative Staff,2025-08-21,2025-08-22,Friday,Morning,4,11.0,Yes,Used,7.0,
+R0200,Computer Lab,student org,2025-08-01,2025-08-07,Thursday,Afternoon,3,20.0,Yes,Canceled,,4.0
+R0334,Gymnasium,student org,2025-11-03,2025-11-09,Sunday,Morning,2,56.0,Yes,USED,33.0,
+R0095,GYMNASIUM,Faculty,,2025-08-28,Thursday,Afternoon,6,26.0,No,Used,19.0,
+R0263,Computer Lab,admin staff,2025-08-22,2025-08-28,Thursday,Morning,2,17.0,No,No-Show,0.0,
+R0389,Gymnasium,Individual Student,2025-08-28,2025-09-05,Friday,Afternoon,5,102.0,No,Canceled,,5.0
+R0222,Auditorium,faculty ,2025-10-20,2025-12-03,Wednesday,Morning,3,213.0,Yes,Cancelled,,13.0
+R0086,Gymnasium,Student Organization,2025-11-12,2025-11-26,Wednesday,Morning,5,96.0,Yes,Used,70.0,
+R0133,Conference Room,Faculty,2025-10-22,2025-11-06,Thursday,Afternoon,4,8.0,No,Used,7.0,
+R0188,classroom ,Student Organization,2025-10-24,2025-10-24,Friday,Evening,3,21.0,No,used,20.0,
+R0321,Conference Room,Individual Student,2025-08-20,2025-08-24,Sunday,Afternoon,4,7.0,Yes,used,6.0,
+R0249,Classroom,Individual Student,2025-09-01,2025-09-02,Tuesday,Afternoon,3,16.0,No,used,10.0,
+R0090,Study Room,Administrative Staff,2025-08-26,2025-09-02,Tuesday,Afternoon,1,2.0,No,Used,2.0,
+R0012,Study Room,Student Organization,2025-09-25,2025-10-21,Tuesday,Morning,3,5.0,No,No-Show,0.0,
+R0035,Computer Lab,Student Organization,2025-10-13,2025-10-22,Wednesday,Evening,4,24.0,No,Used,,
+R0218,Study Room,Administrative Staff,2025-09-08,2025-09-22,Monday,Morning,2,4.0,Yes,Used,3.0,
+R0073,Conference Room,Administrative Staff,2025-10-09,2025-11-04,Tuesday,Afternoon,1,12.0,No,Cancelled,,16.0
+R0395,GYMNASIUM,Student Organization,2025-10-11,2025-10-15,Wednesday,Morning,3,116.0,No,Used,115.0,
+R0221,Computer Lab,Individual Student,2025-11-28,2026-01-09,Friday,Morning,3,27.0,No,Cancelled,,36.0
+R0262,Auditorium,Faculty,2025-11-02,2025-11-10,Monday,Afternoon,1,286.0,Yes,used,234.0,
+R0326,Conference Room,Faculty,2025-09-02,2025-10-08,Wednesday,Afternoon,1,17.0,Yes,No-Show,0.0,
+R0409,Classroom,Individual Student,2025-11-17,2025-11-22,Saturday,Morning,4,50.0,Yes,No-Show,0.0,
+R0013,Gymnasium,Student Organization,2025-08-11,2025-08-18,Monday,Morning,6,46.0,No,used,26.0,
+R0199,Comp Lab,Student Organization,2025-10-11,2025-10-21,Tuesday,Morning,1,31.0,Yes,Used,29.0,
+R0214,computer lab,Faculty,2025-10-24,2025-10-20,Monday,Afternoon,5,29.0,No,Used,28.0,
+R0394,Computer Lab,Student Organization,2025-09-27,2025-10-23,Thursday,Afternoon,2,21.0,Yes,Used,20.0,
+R0235,Auditorium,Individual Student,2025-08-12,2025-08-17,Sunday,Afternoon,2,297.0,No,no-show,0.0,
+R0368,Classroom,student,2025-11-28,2025-12-12,Friday,Morning,2,18.0,Yes,Used,18.0,
+R0300,Conference Room,Student Organization,2025-10-16,2025-10-20,Monday,Afternoon,4,6.0,No,Used,6.0,
+R0340,Study Room,Administrative Staff,2025-11-09,2025-11-16,Sunday,Afternoon,2,5.0,No,No-Show,0.0,
+R0097,Auditorium,Faculty,2025-09-22,2025-09-28,Sunday,Morning,5,263.0,No,used,175.0,
+R0273,Study Room,Administrative Staff,2025-10-14,2025-10-18,Saturday,Afternoon,3,6.0,Yes,Used,5.0,
+R0064,Classroom,Faculty,2025-10-10,2025-10-14,Tuesday,Evening,3,33.0,No,Used,25.0,
+R0223,Gymnasium,Student Organization,2025-10-30,2025-11-07,Friday,Afternoon,4,80.0,No,Cancelled,,7.0
+R0096,GYMNASIUM,Individual Student,2025-09-12,2025-09-20,Saturday,Afternoon,24,24.0,No,Cancelled,,8.0
+R0014,Conference Room,Individual Student,2025-11-24,2025-12-01,Monday,Morning,1,21.0,Yes,Used,21.0,
+R0018,Computer Lab,Student Organization,2025-11-07,2025-11-20,Thursday,Evening,3,20.0,No,Cancelled,,3.0
+R0348,Classroom,Individual Student,2025-08-07,2025-08-15,Friday,Afternoon,1,32.0,Yes,Used,22.0,
+R0247,Auditorium,Student Org.,2025-09-19,2025-09-24,Wednesday,Morning,3,197.0,No,Used,177.0,
+R0418,Gymnasium,Student Org.,2025-08-22,2025-08-29,Friday,Morning,2,24.0,No,Used,15.0,
+R0208,Classroom,Administrative Staff,2025-09-27,2025-09-29,Monday,Evening,1,24.0,Yes,used,17.0,
+R0091,Study Room,Faculty,2025-10-26,2025-11-02,Sunday,Afternoon,6,-5.0,No,Used,5.0,
+R0311,Classroom,Faculty,2025-08-18,2025-08-24,Sunday,Morning,1,24.0,No,Cancelled,,1.0
+R0040,Computer Lab,Student Organization,2025-09-25,2025-10-01,Wednesday,Morning,2,32.0,No,Used,,
+R0087,Auditorium,Faculty,2025-08-25,2025-08-27,Wednesday,Morning,6,191.0,No,Used,184.0,
+R0182,Conference Room,Administrative Staff,2025-08-12,2025-08-31,Sunday,Morning,1,15.0,No,no-show,0.0,
+R0295,Conference Room,Student Organization,2025-11-16,2025-12-01,Monday,Afternoon,2,24.0,Yes,No-Show,0.0,
+R0146,Classroom,Faculty,2025-08-28,2025-10-11,Saturday,Evening,2,33.0,Yes,Used,29.0,
+R0159,Classroom,student org,2025-09-18,2025-09-25,Thursday,Morning,5,43.0,Yes,USED,28.0,
+R0355,Classroom,Student Organization,2025-10-18,2025-10-20,Monday,Afternoon,5,57.0,No,Used,,
+R0414,Gymnasium,Student Organization,2025-09-01,2025-09-09,Tuesday,Morning,6,81.0,No,Used,67.0,
+R0318,Auditorium,Administrative Staff,2025-11-28,2025-12-12,Friday,Morning,2,209.0,Yes,Used,129.0,
+R0302,COMPUTER LAB,Faculty,2025-09-16,2025-10-08,Wednesday,Morning,6,22.0,No,Used,16.0,
+R0201,Conf. Room,Admin Staff,2025-11-27,2025-12-27,Saturday,Morning,6,6.0,No,Used,4.0,
+R0072,COMPUTER LAB,Faculty,2025-08-08,2025-08-14,Thursday,Evening,4,39.0,Yes,Used,22.0,
+R0369,Study Room,Student Organization,2025-10-02,2025-10-05,Sunday,Afternoon,2,4.0,Yes,Used,4.0,
+R0365,Study Room,Student Organization,2025-11-18,2025-11-23,Sunday,Morning,1,5.0,No,Used,3.0,
+R0314,Study Room,Student Organization,2025-08-12,2025-09-10,Wednesday,Afternoon,1,4.0,No,No-Show,0.0,
+R0377,Study Room,Faculty,2025-11-11,2025-11-11,Tuesday,Evening,5,2.0,Yes,Used,2.0,
+R0407,Computer Lab,Student Organization,2025-09-20,2025-09-26,Friday,Evening,4,19.0,Yes,Cancelled,,5.0
+R0372,Classroom,Faculty,2025-09-05,2025-10-09,Thursday,Morning,1,52.0,No,Used,49.0,
+R0134,Study Room,Individual Student,2025-08-26,2025-08-26,Tuesday,Afternoon,1,6.0,No,,6.0,
+R0061,Auditorium,Student Organization,2025-08-02,2025-08-10,Sunday,Afternoon,1,261.0,Yes,Used,181.0,
+R0327,Computer Lab,Individual Student,2025-08-18,2025-08-21,Thursday,Evening,4,16.0,Yes,Used,15.0,
+R0419,Classroom,Faculty,2025-09-12,2025-09-22,Monday,Morning,2,30.0,Yes,Used,18.0,
+R0101,Conference Room,Administrative Staff,2025-09-21,2025-09-30,Tuesday,Afternoon,3,17.0,Yes,Cancelled,,0.0
+R0020,CLASSROOM,Faculty,2025-08-08,2025-08-12,Tuesday,Morning,1,23.0,Yes,Used,13.0,
+R0335,Conference Room,Student Organization,2025-10-21,2025-11-04,Tuesday,Afternoon,1,8.0,No,Cancelled,,1.0
+R0385,Computer Lab,Student Organization,2025-11-11,2025-11-18,Tuesday,Afternoon,6,19.0,No,Used,15.0,
+R0265,Gymnasium,faculty ,2025-09-18,2025-09-26,Friday,Afternoon,3,41.0,No,Used,33.0,
+R0277,Classroom,Administrative Staff,2025-08-24,2025-08-26,Tuesday,Morning,1,18.0,No,Used,15.0,
+R0009,Gymnasium,Individual Student,2025-10-19,2025-11-20,Thursday,Morning,4,40.0,Yes,No-Show,0.0,
+R0310,Classroom,Faculty,2025-11-24,2025-12-06,Saturday,Afternoon,5,20.0,No,Used,13.0,
+R0284,Conf. Room,FACULTY,2025-10-24,2025-10-26,Sunday,Morning,4,11.0,Yes,No-Show,0.0,
+R0093,Study Room,Individual Student,2025-08-27,2025-09-01,Monday,Morning,2,4.0,No,Cancelled,,4.0
+R0253,Classroom,Administrative Staff,2025-10-20,2025-10-23,Thursday,Afternoon,4,53.0,Yes,Used,47.0,
+R0033,Conf. Room,Student Organization,2025-09-01,2025-09-10,Wednesday,Morning,1,17.0,No,Cancelled,,8.0
+R0136,Gymnasium,Individual Student,2025-09-29,2025-10-06,Monday,Afternoon,1,85.0,Yes,Used,57.0,
+R0023,Gymnasium,Individual Student,2025-10-02,2025-10-02,Thursday,Evening,3,,No,Used,67.0,
+R0063,Auditorium,student org,2025-10-24,2025-10-29,Wednesday,Morning,4,107.0,No,Used,71.0,
+R0133,Conference Room,Faculty,2025-10-22,2025-11-06,Thursday,Afternoon,4,8.0,No,Used,7.0,
+R0216,Computer Lab,Individual Student,2025-08-04,2025-08-07,Thursday,Afternoon,3,33.0,Yes,Cancelled,,3.0
+R0360,Auditorium,Individual Student,2025-11-28,2025-11-28,Friday,Morning,4,169.0,No,USED,179.0,
+R0370,Classroom,FACULTY,2025-08-23,2025-09-04,Thursday,Evening,1,58.0,Yes,Used,37.0,
+R0258,Study Room,Faculty,2025-09-07,2025-09-09,Tuesday,Morning,6,3.0,Yes,Used,2.0,
+R0053,Computer Lab,student org,2025-11-21,2025-11-25,Tuesday,Afternoon,2,17.0,No,Used,18.0,
+R0410,Conference Room,Student Organization,,2025-11-17,Monday,Morning,1,8.0,No,Used,7.0,
+R0174,Study Room,Student Organization,2025-08-25,2025-09-23,Tuesday,Afternoon,3,2.0,Yes,Cancelled,,3.0
+R0036,Study Room,Student Organization,2025-11-24,2025-11-28,Friday,Afternoon,2,5.0,No,Used,5.0,
+R0179,Conference Room,Individual student,2025-10-17,2025-10-31,Friday,Morning,2,12.0,No,Cancelled,,12.0
+R0168,Classroom,Individual Student,2025-10-24,2025-10-25,Saturday,Afternoon,1,20.0,No,No-Show,0.0,
+R0227,Gymnasium,Individual Student,2025-11-19,2025-11-24,Monday,Morning,1,98.0,No,Cancelled,,0.0
+R0121,Gymnasium,Faculty,2025-09-27,2025-10-06,Monday,Morning,2,28.0,No,Used,28.0,
+R0276,GYMNASIUM,student,2025-11-14,2025-11-20,Thursday,Morning,4,119.0,Yes,Used,118.0,
+R0045,classroom ,Student Organization,2025-09-29,2025-09-30,Tuesday,Afternoon,2,,Yes,Used,31.0,
+R0301,Conference Room,Individual Student,2025-09-06,2025-09-09,Tuesday,Morning,3,16.0,No,Used,17.0,
+R0325,Auditorium,Faculty,2025-09-07,2025-09-07,Sunday,Morning,1,196.0,No,Used,109.0,
+R0077,Classroom,Faculty,2025-10-22,2025-10-24,Friday,Morning,2,32.0,No,Used,23.0,
+R0209,Study Room,Individual Student,2025-10-16,2025-11-02,Sunday,Afternoon,3,3.0,Yes,Cancelled,,10.0
+R0213,Classroom,Individual Student,2025-09-07,2025-09-24,Wednesday,Morning,1,42.0,No,USED,25.0,
+R0268,Classroom,FACULTY,2025-11-23,2025-11-23,Sunday,Afternoon,5,46.0,No,Cancelled,,0.0
+R0312,Conference Room,Faculty,2025-10-14,2025-10-23,Thursday,Morning,3,15.0,No,Cancelled,,1.0
+R0217,Computer Lab,Administrative Staff,2025-09-22,2025-10-01,Wednesday,Afternoon,3,39.0,Yes,Cancelled,,8.0
+R0401,CLASSROOM,Student Organization,2025-11-26,2025-12-29,Monday,Morning,2,42.0,No,Cancelled,,0.0
+R0010,Computer Lab,Individual Student,2025-10-11,2025-10-11,Saturday,Afternoon,6,20.0,No,Used,17.0,
+R0354,Computer Lab,Faculty,2025-09-06,2025-09-07,Sunday,Morning,6,27.0,Yes,Used,23.0,
+R0371,Computer Lab,Student Organization,2025-09-27,2025-10-29,Wednesday,Morning,1,36.0,No,Cancelled,,24.0
+R0286,Study Room,student org,2025-09-13,2025-09-15,Monday,Evening,2,0.0,Yes,Cancelled,,2.0
+R0296,Auditorium,FACULTY,2025-10-30,2025-10-30,Thursday,Afternoon,3,,No,Cancelled,,0.0
+R0105,Conference Room,Faculty,2025-09-05,2025-09-05,Friday,Evening,2,0.0,No,Used,12.0,
+R0313,Auditorium,Faculty,2025-10-03,2025-10-11,Saturday,Afternoon,2,177.0,No,Used,125.0,
+R0379,Classroom,Student Organization,2025-08-31,2025-09-21,Sunday,Afternoon,3,27.0,Yes,Used,15.0,
+R0379,Classroom,Student Organization,2025-08-31,2025-09-21,Sunday,Afternoon,3,27.0,Yes,Used,15.0,
+R0092,Classroom,faculty ,2025-08-27,2025-09-10,Wednesday,Evening,2,40.0,Yes,Cancelled,,13.0
+R0183,Conference Room,Faculty,2025-08-24,2025-08-27,Wednesday,Afternoon,1,12.0,No,USED,11.0,
+R0316,Classroom,Faculty,2025-10-07,2025-10-08,Wednesday,Morning,2,35.0,Yes,Used,31.0,
+R0420,Gymnasium,Faculty,2025-09-06,2025-09-15,Monday,Afternoon,2,101.0,No,,100.0,
+R0173,Gymnasium,Individual student,2025-08-20,2025-08-26,Tuesday,Afternoon,4,74.0,No,No-Show,0.0,
+R0233,Study Room,Faculty,2025-10-25,2025-10-25,Saturday,Afternoon,4,4.0,Yes,Used,3.0,
+R0412,Study Room,Faculty,2025-09-17,2025-09-17,Wednesday,Afternoon,5,6.0,Yes,USED,5.0,
+R0037,Gymnasium,Individual Student,2025-11-16,2025-11-18,Tuesday,Afternoon,3,107.0,Yes,Used,67.0,
+R0157,Conf. Room,Faculty,2025-09-09,2025-10-03,Friday,Afternoon,3,13.0,No,Cancelled,,18.0
+R0003,Auditorium,Faculty,2025-09-13,2025-09-14,Sunday,Afternoon,4,252.0,No,used,188.0,
+R0243,Study Room,Faculty,2025-09-26,2025-10-09,Thursday,Morning,3,6.0,No,Used,5.0,
+R0309,Auditorium,FACULTY,2025-10-18,2025-10-24,Friday,Morning,4,89.0,No,USED,67.0,
+R0290,Conference Room,Faculty,2025-11-05,2025-11-10,Monday,Morning,2,6.0,No,,6.0,
+R0049,conference room,Student Organization,2025-09-06,2025-09-18,Thursday,Afternoon,4,12.0,No,USED,13.0,
+R0142,Computer Lab,Faculty,2025-09-07,2025-09-21,Sunday,Afternoon,2,17.0,Yes,Used,14.0,
+R0224,Auditorium,Student Organization,2025-10-14,2025-11-21,Friday,Afternoon,1,171.0,Yes,Cancelled,,18.0
+R0353,Classroom,faculty ,2025-10-10,2025-10-21,Tuesday,Morning,2,25.0,No,Used,25.0,
+R0184,Study Room,Faculty,2025-10-16,2025-10-25,Saturday,Evening,1,3.0,Yes,No-Show,0.0,
+R0332,Study Room,Student Organization,2025-09-06,2025-09-20,Saturday,Afternoon,1,6.0,No,No-Show,0.0,
+R0387,CLASSROOM,Administrative Staff,2025-08-30,2025-09-12,Friday,Afternoon,2,45.0,No,No-Show,0.0,
+R0161,Gymnasium,Administrative Staff,2025-09-27,2025-10-24,Friday,Morning,1,93.0,No,Cancelled,,13.0
+R0337,Conference Room,Administrative Staff,2025-10-12,2025-11-20,Thursday,Morning,5,10.0,Yes,Used,10.0,
+R0220,Classroom,student org,2025-09-05,2025-09-09,Tuesday,Morning,4,25.0,No,used,23.0,
+R0100,GYMNASIUM,Student Organization,2025-09-09,2025-09-13,Saturday,Afternoon,1,84.0,No,Used,88.0,
+R0236,Computer Lab,STUDENT ORGANIZATION,2025-09-10,2025-09-12,Friday,Afternoon,5,29.0,No,Used,17.0,
+R0118,Gymnasium,Student Organization,2025-11-14,2025-12-21,Sunday,Afternoon,4,32.0,No,Cancelled,,16.0
+R0342,Study Room,student,2025-09-22,2025-09-30,Tuesday,Morning,2,6.0,Yes,Used,6.0,
+R0002,Gymnasium,Faculty,2025-10-10,2025-10-17,Friday,Afternoon,1,101.0,Yes,Used,61.0,
+R0114,Classroom,student,2025-09-07,2025-09-16,Tuesday,Evening,6,32.0,Yes,No-Show,0.0,
+R0402,classroom ,admin staff,2025-08-02,2025-09-03,Wednesday,Morning,2,34.0,Yes,Used,34.0,
+R0175,Study Room,Student Organization,2025-08-22,2025-08-27,Wednesday,Morning,4,2.0,No,Cancelled,,4.0
+R0254,Study Room,Faculty,2025-10-26,2025-10-30,Thursday,Afternoon,3,4.0,No,USED,2.0,
+R0385,Computer Lab,Student Organization,2025-11-11,2025-11-18,Tuesday,Afternoon,6,19.0,No,Used,15.0,
+R0185,computer lab,Individual Student,2025-11-05,2025-11-09,Sunday,Afternoon,5,33.0,No,Used,25.0,
+R0166,Classroom,Faculty,2025-09-03,2025-09-04,Thursday,Afternoon,1,53.0,No,Used,,
+R0373,Conference Room,Faculty,2025-08-13,2025-08-21,Thursday,Morning,4,24.0,No,Used,20.0,
+R0275,Computer Lab,Administrative Staff,2025-10-23,2025-11-03,Monday,Afternoon,3,26.0,No,Used,22.0,
+R0193,Auditorium,Individual Student,2025-08-06,2025-08-06,Wednesday,Morning,1,231.0,No,Used,184.0,
+R0001,Classroom,Student Organization,2025-11-02,2025-11-13,Thursday,Afternoon,3,53.0,Yes,Used,32.0,
+R0055,Auditorium,Student Organization,2025-10-16,2025-10-30,Thursday,Morning,2,230.0,Yes,No-Show,0.0,
+R0376,Classroom,Administrative Staff,2025-11-27,2025-12-02,Tuesday,Afternoon,2,37.0,No,Used,39.0,
+R0029,Computer Lab,Faculty,2025-10-13,2025-10-14,Tuesday,Afternoon,2,36.0,Yes,Used,24.0,
+R0207,Classroom,Student Organization,2025-09-21,2025-10-04,Saturday,Morning,2,16.0,No,Used,17.0,
+R0384,CLASSROOM,Faculty,2025-11-15,2025-11-21,Friday,Evening,1,48.0,No,Used,34.0,
+R0050,Auditorium,Faculty,2025-08-03,2025-08-16,Saturday,Afternoon,3,279.0,Yes,Cancelled,,5.0
+R0351,Classroom,Individual Student,2025-09-29,2025-10-02,Thursday,,6,54.0,Yes,Cancelled,,3.0
+R0021,Auditorium,Administrative Staff,2025-08-21,2025-09-03,Wednesday,Evening,2,107.0,No,Cancelled,,5.0
+R0294,Computer Lab,Individual Student,2025-09-02,2025-09-25,Thursday,,1,999.0,No,Used,27.0,
+R0177,Conf. Room,Admin Staff,2025-08-04,2025-08-16,Saturday,Morning,6,17.0,Yes,No-Show,0.0,
+R0336,Computer Lab,STUDENT ORGANIZATION,2025-10-03,2025-10-05,Sunday,Morning,5,15.0,No,Used,14.0,
+R0380,Gymnasium,student org,2025-08-30,2025-09-05,Friday,Morning,4,92.0,Yes,Used,63.0,
+R0034,Gymnasium,admin staff,2025-08-11,2025-08-11,Monday,Afternoon,2,112.0,Yes,,112.0,
+R0172,Computer Lab,Faculty,2025-08-07,2025-08-12,Tuesday,Morning,1,35.0,Yes,Used,20.0,
+R0008,Classroom,student org,2025-08-20,2025-08-25,Monday,Afternoon,2,27.0,Yes,USED,15.0,
+R0319,classroom ,Individual Student,2025-08-02,2025-08-04,Monday,Morning,2,58.0,No,no-show,0.0,
+R0231,CLASSROOM,Individual Student,2025-08-04,2025-08-05,Tuesday,Evening,2,31.0,No,Used,31.0,
+R0107,Gymnasium,Individual Student,2025-08-15,2025-08-22,Friday,Afternoon,3,87.0,No,No-Show,0.0,
+R0098,Study Room,Faculty,2025-08-09,2025-08-23,Saturday,Evening,1,4.0,No,Used,2.0,
+R0111,Gymnasium,Administrative Staff,2025-08-12,2025-08-19,Tuesday,Afternoon,3,61.0,No,No-Show,0.0,
+R0361,Gymnasium,Faculty,2025-09-08,2025-09-12,Friday,Morning,3,47.0,No,Used,29.0,
+R0070,computer lab,STUDENT ORGANIZATION,2025-11-06,2025-12-09,Tuesday,Afternoon,4,29.0,No,Used,19.0,
+R0347,Auditorium,Student Org.,2025-09-26,2025-10-27,Monday,Afternoon,1,227.0,No,Used,195.0,
+R0130,Gymnasium,Individual Student,2025-10-07,2025-10-14,Tuesday,Morning,4,26.0,No,Used,28.0,
+R0317,Comp Lab,Student Organization,2025-08-30,2025-09-06,Saturday,Afternoon,3,19.0,No,Cancelled,,2.0
+R0259,Study Room,Student Organization,2025-09-01,2025-09-20,Saturday,Afternoon,4,6.0,No,Cancelled,,2.0
+R0323,Computer Lab,Administrative Staff,2025-09-24,2025-09-24,Wednesday,Afternoon,3,30.0,No,No-Show,0.0,
+R0151,Study Room,Administrative Staff,2025-10-17,2025-10-22,Wednesday,Afternoon,4,7.0,Yes,No-Show,0.0,
+R0338,Auditorium,Individual Student,2025-08-27,2025-09-09,Tuesday,Afternoon,2,234.0,Yes,Used,195.0,
+R0027,Classroom,Administrative Staff,2025-09-19,2025-10-17,Friday,Afternoon,2,59.0,No,USED,52.0,
+R0399,Gymnasium,Student Organization,2025-09-18,2025-09-22,Monday,Morning,3,76.0,No,Used,69.0,
+R0094,Conference Room,Student Organization,2025-09-04,2025-09-30,Tuesday,Evening,5,15.0,No,Cancelled,,14.0
+R0149,Classroom,Administrative Staff,2025-09-29,2025-11-05,Wednesday,Morning,2,24.0,Yes,Used,24.0,
+R0308,Computer Lab,Administrative Staff,2025-09-08,2025-09-13,Saturday,Afternoon,4,19.0,Yes,Cancelled,,2.0
+R0120,Auditorium,Faculty,2025-11-20,2025-11-27,Thursday,Evening,4,174.0,Yes,Used,188.0,
+R0406,Gymnasium,Faculty,2025-11-11,2025-12-18,Thursday,Evening,2,80.0,Yes,Used,87.0,
+R0139,Computer Lab,FACULTY,2025-08-13,2025-08-16,Saturday,Afternoon,4,24.0,Yes,Used,18.0,
+R0170,Auditorium,Faculty,2025-09-26,2025-09-28,Sunday,Morning,6,999.0,No,Used,156.0,
+R0364,Conference Room,Faculty,2025-11-27,2025-12-05,Friday,Afternoon,2,15.0,Yes,Used,12.0,
+R0203,Classroom,Individual Student,2025-08-02,2025-08-12,Tuesday,Afternoon,4,52.0,No,No-Show,0.0,
+R0148,Computer Lab,Administrative Staff,2025-10-26,2025-11-30,Sunday,Morning,3,38.0,No,Used,34.0,
+R0278,Classroom,Faculty,2025-08-09,2025-08-14,Thursday,Evening,1,32.0,Yes,Used,26.0,
+R0257,Computer Lab,Faculty,2025-09-07,2025-10-10,Friday,Afternoon,1,36.0,No,Used,28.0,
+R0132,conference room,Student Organization,2025-09-03,2025-10-05,Sunday,Afternoon,2,21.0,No,Cancelled,,6.0
+R0250,Classroom,Student Organization,2025-11-13,2025-11-24,Monday,Afternoon,1,31.0,No,Used,23.0,
+R0153,Gymnasium,Faculty,2025-09-18,2025-10-27,Monday,Afternoon,2,104.0,Yes,No-Show,0.0,
+R0363,Conference Room,Individual Student,2025-11-16,2025-12-15,Monday,Afternoon,4,18.0,Yes,Used,14.0,

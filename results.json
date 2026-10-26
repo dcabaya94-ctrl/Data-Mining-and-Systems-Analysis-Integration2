@@ -1,0 +1,204 @@
+{
+  "rows_raw": 436,
+  "rows_clean": 420,
+  "dq": [
+    [
+      "Inconsistent category labels (case, spacing, abbreviations)",
+      220,
+      "Standardised to one canonical label per category"
+    ],
+    [
+      "Duplicate transactions (identical rows)",
+      16,
+      "Removed, first occurrence kept"
+    ],
+    [
+      "Same Reservation_ID but conflicting content",
+      0,
+      "Kept first occurrence (none expected)"
+    ],
+    [
+      "Booking date after reservation date (negative lead time)",
+      4,
+      "Lead_Time_Days set to missing; original dates kept"
+    ],
+    [
+      "Missing Booking_Date (lead time cannot be computed)",
+      2,
+      "Left missing; excluded from lead-time analysis"
+    ],
+    [
+      "Invalid Participants (<=0 or >500)",
+      8,
+      "Set to missing"
+    ],
+    [
+      "Invalid Duration_Hours (<1 or >12)",
+      4,
+      "Set to missing"
+    ],
+    [
+      "Invalid Actual_Attendance (negative or >150% of participants)",
+      7,
+      "Set to missing"
+    ],
+    [
+      "Missing Time_Slot",
+      7,
+      "Labelled 'Unknown' (explicit category)"
+    ],
+    [
+      "Missing Usage_Status (outcome unknowable)",
+      5,
+      "Kept in file; Reservation_Outcome left missing; excluded from outcome analysis and modelling"
+    ],
+    [
+      "Missing/invalid Participants after cleaning",
+      17,
+      "Left missing in file; median-imputed inside the model pipeline using training data only"
+    ],
+    [
+      "Actual_Attendance blank for cancelled reservations",
+      96,
+      "Left blank: attendance is not applicable, not zero"
+    ],
+    [
+      "Actual_Attendance missing for 'Used' reservations",
+      14,
+      "Left missing (not invented)"
+    ]
+  ],
+  "fac_counts": {
+    "Classroom": 100,
+    "Computer Lab": 86,
+    "Gymnasium": 68,
+    "Conference Room": 63,
+    "Study Room": 60,
+    "Auditorium": 43
+  },
+  "n_all": 420,
+  "uc": [
+    {
+      "User_Category": "Individual Student",
+      "Reservations (known outcome)": 102,
+      "Cancelled": 26,
+      "No-Show": 22,
+      "Not Completed": 48,
+      "Not Completed rate (%)": 47.1
+    },
+    {
+      "User_Category": "Student Organization",
+      "Reservations (known outcome)": 125,
+      "Cancelled": 37,
+      "No-Show": 16,
+      "Not Completed": 53,
+      "Not Completed rate (%)": 42.4
+    },
+    {
+      "User_Category": "Administrative Staff",
+      "Reservations (known outcome)": 68,
+      "Cancelled": 11,
+      "No-Show": 13,
+      "Not Completed": 24,
+      "Not Completed rate (%)": 35.3
+    },
+    {
+      "User_Category": "Faculty",
+      "Reservations (known outcome)": 120,
+      "Cancelled": 22,
+      "No-Show": 8,
+      "Not Completed": 30,
+      "Not Completed rate (%)": 25.0
+    }
+  ],
+  "overall_nc": 37.34939759036144,
+  "n_known": 415,
+  "lt": [
+    {
+      "Lead_Time_Category": "Last Minute",
+      "Completed": 64,
+      "Not Completed": 24,
+      "Total": 88,
+      "Not Completed rate (%)": 27.3
+    },
+    {
+      "Lead_Time_Category": "Short Lead",
+      "Completed": 83,
+      "Not Completed": 34,
+      "Total": 117,
+      "Not Completed rate (%)": 29.1
+    },
+    {
+      "Lead_Time_Category": "Medium Lead",
+      "Completed": 65,
+      "Not Completed": 47,
+      "Total": 112,
+      "Not Completed rate (%)": 42.0
+    },
+    {
+      "Lead_Time_Category": "Early Booking",
+      "Completed": 41,
+      "Not Completed": 47,
+      "Total": 88,
+      "Not Completed rate (%)": 53.4
+    }
+  ],
+  "n_lt": 405,
+  "lt_hi": "Early Booking",
+  "lt_lo": "Last Minute",
+  "model": {
+    "depth": 5,
+    "n_model": 415,
+    "n_train": 332,
+    "n_test": 83,
+    "accuracy": 0.6506024096385542,
+    "precision": 0.5333333333333333,
+    "recall": 0.5161290322580645,
+    "f1": 0.5245901639344263,
+    "baseline": 0.6265060240963856,
+    "tn": 38,
+    "fp": 14,
+    "fn": 15,
+    "tp": 16,
+    "nc_share": 0.37349397590361444
+  },
+  "importance": {
+    "Lead_Time_Days": 0.4378,
+    "Participants": 0.2194,
+    "User_Category": 0.1733,
+    "Facility_Type": 0.0857,
+    "Time_Slot": 0.0838,
+    "Equipment_Requested": 0.0,
+    "Day_of_Week": 0.0,
+    "Duration_Hours": 0.0
+  },
+  "top3": [
+    "Lead_Time_Days",
+    "Participants",
+    "User_Category"
+  ],
+  "cv": {
+    "f1_mean": 0.4675282342879597,
+    "f1_std": 0.11698816388162601,
+    "acc_mean": 0.5710843373493976,
+    "acc_std": 0.03779370395507982
+  },
+  "verdict": "NOT reliable enough yet; do not use for decisions",
+  "fr": [
+    [
+      "Part III Q3: 'Early Booking' bookings were not completed 53.4% of the time (47/88) versus 27.3% for 'Last Minute' (24/88).",
+      "FR-DM-01",
+      "The system shall send the requester an automated reconfirmation request for every reservation in the 'Early Booking' lead-time category (more than 14 days ahead), and shall release or flag the slot if it is not reconfirmed by the administrator-defined deadline."
+    ],
+    [
+      "Part III Q2: Individual Student had the highest cancellation/no-show rate (47.1%, 48/102) versus 37.3% overall.",
+      "FR-DM-02",
+      "The system shall calculate and display on the administrator dashboard the cancellation and no-show rate for each user category, with the number of reservations behind each rate, and shall highlight categories above the overall rate (currently Individual Student)."
+    ],
+    [
+      "Part IV: decision tree (test accuracy 0.65, recall 0.52, precision 0.53); most influential predictors: Lead_Time_Days, Participants, User_Category.",
+      "FR-DM-03",
+      "The system shall compute a predicted risk level (Low / Medium / High) for each new reservation request at submission time using only fields known at submission, shall display it to the administrator labelled as a prediction together with the top contributing factors (Lead_Time_Days, Participants, User_Category), and shall never reject or cancel a reservation automatically on the basis of the prediction."
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+Data-quality issue,Rows affected,Action taken
+"Inconsistent category labels (case, spacing, abbreviations)",220,Standardised to one canonical label per category
+Duplicate transactions (identical rows),16,"Removed, first occurrence kept"
+Same Reservation_ID but conflicting content,0,Kept first occurrence (none expected)
+Booking date after reservation date (negative lead time),4,Lead_Time_Days set to missing; original dates kept
+Missing Booking_Date (lead time cannot be computed),2,Left missing; excluded from lead-time analysis
+Invalid Participants (<=0 or >500),8,Set to missing
+Invalid Duration_Hours (<1 or >12),4,Set to missing
+Invalid Actual_Attendance (negative or >150% of participants),7,Set to missing
+Missing Time_Slot,7,Labelled 'Unknown' (explicit category)
+Missing Usage_Status (outcome unknowable),5,Kept in file; Reservation_Outcome left missing; excluded from outcome analysis and modelling
+Missing/invalid Participants after cleaning,17,Left missing in file; median-imputed inside the model pipeline using training data only
+Actual_Attendance blank for cancelled reservations,96,"Left blank: attendance is not applicable, not zero"
+Actual_Attendance missing for 'Used' reservations,14,Left missing (not invented)

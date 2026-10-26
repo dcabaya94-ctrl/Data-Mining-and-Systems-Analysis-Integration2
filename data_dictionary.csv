@@ -1,0 +1,18 @@
+Variable,Type,Role,Description,Valid values
+Reservation_ID,Identifier,ID,Unique transaction code,R0001 format
+Facility_Type,Categorical,Predictor,Type of facility reserved,"Classroom, Computer Lab, Auditorium, Gymnasium, Conference Room, Study Room"
+User_Category,Categorical,Predictor,Requester group,"Student Organization, Faculty, Administrative Staff, Individual Student"
+Booking_Date,Date,Used to derive Lead_Time_Days,Date request was submitted,YYYY-MM-DD
+Reservation_Date,Date,Used to derive Lead_Time_Days / Day_of_Week,Date facility is to be used,YYYY-MM-DD
+Day_of_Week,Categorical,Predictor,Weekday of reservation,Monday-Sunday
+Time_Slot,Categorical,Predictor,Part of day,"Morning, Afternoon, Evening"
+Duration_Hours,Numerical,Predictor,Requested hours,1-12 valid
+Participants,Numerical,Predictor,Declared group size,1-500 valid
+Equipment_Requested,Categorical,Predictor,Extra equipment requested,Yes / No
+Usage_Status,Categorical,Source of target (NOT a predictor),What happened to the reservation,"Used, Cancelled, No-Show"
+Actual_Attendance,Numerical,Post-outcome (NOT a predictor),People who actually attended,0 or more; blank if cancelled
+Cancellation_Days_Before,Numerical,Post-outcome (NOT a predictor),Days before the date that it was cancelled,0 or more; blank unless cancelled
+Lead_Time_Days,Numerical (derived),Predictor,Reservation_Date minus Booking_Date,0 or more
+Lead_Time_Category,Categorical (derived),Analysis grouping,Binned lead time,"Last Minute, Short Lead, Medium Lead, Early Booking"
+Reservation_Outcome,Categorical (derived),TARGET,Completed vs Not Completed,"Completed, Not Completed"
+Attendance_Ratio,Numerical (derived),Analysis only,Actual_Attendance / Participants,blank when undefined
